@@ -23,4 +23,5 @@ Displaying the expected footfall of a particular event.
 Setting alerts for all state-specific events.
 
 
-(For more details : https://docs.google.com/document/d/1Vx-IuJGzqGEMfyoZ6NeOPfFFr8fcP9RkLU_tT5ljO_Q/edit?usp=sharing)
+Project Presentation : [localscene_ppt.pdf](https://github.com/user-attachments/files/15900380/localscene_ppt.pdf)
+Report File : [LocalScene.pdf](https://github.com/user-attachments/files/15900390/LocalScene.pdf)
